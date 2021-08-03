@@ -13,4 +13,4 @@
 
 output/atlas.png:
 
-![A test image](./example.png)
+![](./example.png)
